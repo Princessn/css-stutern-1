@@ -1,2 +1,2 @@
 # css-stutern-1 github pages link
-https://github.com/Princessn/css-stutern-1
+ https://princessn.github.io/css-stutern-1/
